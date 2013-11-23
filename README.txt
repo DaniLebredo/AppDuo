@@ -1,0 +1,1 @@
+Aplicacion desarrollada por Daniel, Jose y Sergio para la asignatura Software para Dispositivos Móviles.

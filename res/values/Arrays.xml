@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="canales">
+        <item>Actos</item>
+        <item>Anuncios</item>
+        <item>Becas</item>
+        <item>Boletines oficiales</item>
+        <item>Convocatorias</item>
+        <item>Otros</item>
+    </string-array>
+    
+    <string-array name="ajustes">
+        <item>Notificaciones</item>
+    </string-array>
+</resources>

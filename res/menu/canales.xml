@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_webSite"
+        android:title="@string/webSite"/>
+    <item 
+        android:id="@+id/action_noticias_guardadas"
+        android:title="@string/title_activity_noticias_guardadas"/>
+    <item 
+        android:id="@+id/action_subcripciones"
+        android:title="@string/suscripciones"/>
+    <item 
+        android:id="@+id/action_quit"
+        android:title="@string/quit"/>
+    
+
+</menu>

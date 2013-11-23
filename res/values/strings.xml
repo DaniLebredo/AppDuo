@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppDuo</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_canales">CanalesActivity</string>
+    <string name="title_section1">Actos</string>
+    <string name="title_section2">Anuncios</string>
+    <string name="title_section3">Becas</string>
+    <string name="title_section4">Boletines oficiales</string>
+    <string name="title_section5">Convocatorias</string>
+    <string name="title_section6">Otros</string>
+    <string name="webSite">Visitar sitio web</string>
+    <string name="quit">Salir</string>
+    <string name="deseaNotificaciones">¿Desea recibir notificaciones de este canal?</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="botonGuardados">Ver guardadas</string>
+    <string name="canales">Seleccione canal:</string>
+    <string name="title_activity_noticias_guardadas">Noticias guardadas</string>
+    <string name="enSitioWeb">Ver en sitio web</string>
+    <string name="guardado">Se ha guardado la noticia</string>
+    <string name="noGuardado">No se ha guardado la noticia</string>
+    <string name="title_activity_lista_noticias_guardadas">Lista noticias guardadas</string>
+    <string name="noNoticias">No hay noticias guardadas</string>
+    <string name="suscripciones">Suscripciones</string>
+    <string name="leer">Leer</string>
+    <string name="guardarNoticia">¿Desea guardar esa noticia?</string>
+ 	<string name="noGuardarNoticia">¿Desea borrar esa noticia?</string>
+ 	<string name="BorrarNoticia">La noticia se borrará proximamente</string>
+ 	<string name="NoBorrarNoticia">La notificia seguirá guardada</string>
+</resources>

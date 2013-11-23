@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+
+    <Button
+        android:id="@+id/btSalirNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/quit" />
+
+    <Button
+        android:id="@+id/btLeer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="@string/leer" />
+
+    <Button
+        android:id="@+id/btSitioWebNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/btSalirNoticia"
+        android:layout_toRightOf="@+id/btLeer"
+        android:text="@string/enSitioWeb" />
+
+    <TextView
+        android:id="@+id/textViewCuerpoNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@+id/btLeer"
+        android:text="TextView"
+        android:textSize="25sp"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textViewFechaNoticia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewCuerpoNoticia"
+        android:layout_below="@+id/textViewCuerpoNoticia"
+        android:layout_marginTop="71dp"
+        android:text="TextView"
+        android:textSize="25sp" />
+
+</RelativeLayout>
